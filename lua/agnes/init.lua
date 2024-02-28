@@ -1,1 +1,2 @@
-print("hello from agnes")
+require("agnes.remap")
+require("agnes.set")
